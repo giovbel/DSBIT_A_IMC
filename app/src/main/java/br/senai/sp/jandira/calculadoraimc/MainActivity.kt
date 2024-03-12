@@ -151,7 +151,7 @@ fun Calculadora() {
                         .colors(
                             unfocusedBorderColor = Color(0xFFED145B),
                             unfocusedContainerColor = Color(0xFFFFFFFF),
-                            focusedBorderColor = Color(0xFFFAFAFA)
+                            focusedBorderColor = Color(0xFFED145B)
                         ),
                             shape = RoundedCornerShape(12.dp)
                 )
